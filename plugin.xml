@@ -1,0 +1,10 @@
+<library path="src">
+  <class name="JoyVis" type="rqt_joy.joy.JoyVis" base_class_type="rqt_gui_py::Plugin">
+    <description></description>
+    <qtgui>
+        <label>Joy</label>
+        <icon type="theme">system-help</icon>
+        <statustip>Joy</statustip>
+    </qtgui>
+  </class>
+</library>
